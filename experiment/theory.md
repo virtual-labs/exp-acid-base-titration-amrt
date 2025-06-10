@@ -362,3 +362,204 @@ EDTA has been assigned the formula <i>II</i> in preference to <i>I</i> based on 
 ![CHN(1)](https://github.com/user-attachments/assets/f135ae9f-345f-461c-9216-5b5ab50ad8c7)
 
 
+
+<p>
+EDTA behaves as a dicarboxylic acid with two strongly acidic groups. For simplicity, EDTA may be represented by the formula <b>H<sub>4</sub>Y</b>. The disodium salt is therefore <b>Na<sub>2</sub>H<sub>2</sub>Y</b>, and it has the complex-forming ion <b>H<sub>2</sub>Y<sup>2−</sup></b> in aqueous solution. The reactions with cations may be represented as:
+</p>
+
+<pre>
+M<sup>2+</sup> + H<sub>2</sub>Y<sup>2−</sup> → MY<sup>2−</sup> + 2H<sup>+</sup>
+M<sup>3+</sup> + H<sub>2</sub>Y<sup>2−</sup> → MY<sup>−</sup> + 2H<sup>+</sup>
+M<sup>4+</sup> + H<sub>2</sub>Y<sup>2−</sup> → MY + 2H<sup>+</sup>
+</pre>
+
+<p>
+One gram ion of the complex-forming ion H<sub>2</sub>Y<sup>2−</sup> reacts in all cases with one gram ion of the metal. EDTA forms complexes with metal ions in basic solutions.
+</p>
+
+<p>
+In acid-base titrations, the endpoint is detected using a pH-sensitive indicator. In EDTA titrations, a <b>metal ion indicator</b> is used to detect changes in <b>pM</b>, which is the negative logarithm of the free metal ion concentration, i.e., <b>pM = −log [M<sup>2+</sup>]</b>.
+</p>
+
+<p>
+Metal ion indicators form complexes with specific metal ions, which differ in colour from the free indicator. A sudden colour change occurs at the endpoint. The endpoint can be detected either using an indicator or instrumentally by <b>potentiometric</b> or <b>conductometric (electrometric)</b> methods.
+</p>
+
+
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure1.JPG" alt="Figure 1" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"> </p></div>
+
+
+<p>There are three factors that are important in determining the magnitude of break in titration curve at the end point:</p>
+
+<ul>
+  <li>
+    <strong>The stability of the complex formed:</strong> The greater the stability constant for the complex formed, the larger the change in free metal concentration (pM) at the equivalence point and the clearer the end point will be.
+  </li>
+  <li>
+    <strong>The number of steps involved in complex formation:</strong> The fewer the number of steps required for complex formation, the greater the break in the titration curve at the equivalence point, resulting in a clearer end point.
+  </li>
+  <li>
+    <strong>Effect of pH:</strong> During a complexometric titration, the pH must be kept constant using a buffer solution. pH control is crucial since H<sup>+</sup> ions play an important role in chelation. Most ligands are basic and bind to H<sup>+</sup> ions across a wide pH range. These H<sup>+</sup> ions can be displaced by metal ions during chelate formation.
+  </li>
+</ul>
+
+<p><strong>Equation showing complexation between metal ion and H<sup>+</sup> ion for ligand:</strong></p>
+
+<p><code>M<sup>2+</sup> + H<sub>2</sub>-EDTA → M-EDTA + 2H<sup>+</sup></code></p>
+
+<p>
+  Thus, the stability of the metal complex is pH-dependent. Lowering the pH reduces the stability of the complex, as more H<sup>+</sup> ions are available to compete with metal ions for the ligand. Only metals forming highly stable complexes can be titrated in acidic solutions, while metals forming weaker complexes can only be effectively titrated in alkaline solutions.
+</p>
+
+<h2>Mechanism of Action of Indicator</h2>
+
+<p>
+  During an EDTA titration, two complexes are formed:
+</p>
+<ul>
+  <li>M-EDTA complex</li>
+  <li>M-indicator complex</li>
+</ul>
+
+<p>
+  The metal-indicator complex must be less stable than the metal-EDTA complex.
+</p>
+
+$$M-In+\text{EDTA}\to M-\text{EDTA}+In$$
+
+<p>
+  Eriochrome Black T is a metal ion indicator. In the pH range 7–11, the dye appears blue. Within this pH range, the addition of metallic salts changes the color from blue to red.
+</p>
+
+$$M^{2+}+HIn^{2-}\to MIn^-+H^+$$ 
+$$\text{(Blue)}\space \space \space \space \space \space \space \space \space\space\space\space\space\space\space\space\space\text{(Red)}$$
+
+
+<p>
+  As EDTA is added, the metal ion concentration decreases due to metal-EDTA complex formation. At the end point, no free metal ions remain. At this stage, the indicator is released, and the color changes from red to blue.
+</p>
+
+### Indicators used in complexometric titrations are as follows:
+
+<table>
+  <thead>
+    <tr>
+      <th>S.No.</th>
+      <th>Name of indicator</th>
+      <th>Colour change</th>
+      <th>pH range</th>
+      <th>Metals detected</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">1</td>
+      <td>Mordant black II</td>
+      <td rowspan="3">Red to Blue</td>
+      <td rowspan="3">6-7</td>
+      <td rowspan="3">Ca,Ba Mg,Zn,Cd,Mn,Pb,Hg</td>
+    </tr>
+    <tr>
+      <td>Eriochrome black T</td>
+    </tr>
+    <tr>
+      <td>Solochrome black T</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Murexide or Ammonium purpurate</td>
+      <td>Violet to Blue</td>
+      <td>12</td>
+      <td>Ca,cu,Co</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Catechol-violet</td>
+      <td>Violet to Red</td>
+      <td>8-10</td>
+      <td>Mn,Mg,Fe,Co,Pb</td>
+    </tr>
+    <tr>
+      <td rowspan="2">4</td>
+      <td>Methyl Blue</td>
+      <td>Blue to Yellow</td>
+      <td>4-5</td>
+      <td rowspan="2">Pb,Zn,Cd,Hg</td>
+    </tr>
+    <tr>
+      <td>Thymol Blue</td>
+      <td>Blue to Grey</td>
+      <td>10-12</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Alizarin</td>
+      <td>Red to Yellow</td>
+      <td>4.3</td>
+      <td>Pb,Zn,Co,Mg,Cu</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Sodium Alizarin sulphonate</td>
+      <td>Blue to Red</td>
+      <td>4</td>
+      <td>Al, Thorium</td>
+    </tr>
+    <tr>
+      <td rowspan="3">7</td>
+      <td rowspan="3">Xylenol range</td>
+      <td rowspan="3">Lemon to Yellow</td>
+      <td>1-3</td>
+      <td>Bi, Thorium</td>
+    </tr>
+    <tr>
+      <td>4-5</td>
+      <td>Pb, Zn</td>
+    </tr>
+    <tr>
+      <td>5-6</td>
+      <td>Cd, Hg</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure2.JPG" alt="Figure 2" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"> </p></div>
+
+
+
+### Applications of Complexometric titration:
+  
+- Complexometric titration is widely used in the medical industry because of the micro litre size sample involved. The method is efficient in research related to the biological cell.
+- Ability to titrate the amount of ions available in a living cell.
+- Ability to introduce ions into a cell in case of deficiencies.
+- Complexometric titration involves the treatment of complex ions such as magnesium, calcium, copper, iron, nickel, lead and zinc with EDTA as the complexing agent.
+- Complexometric titration is an efficient method for determining the level of hardness of water.
+
+  <h2>Types of Complexometric Titration:</h2>
+  <p>As mentioned earlier, EDTA is a versatile chelating titrant that has been used in innumerable complexometric determinations. The versatility of EDTA can be ascribed to the different ways in which the complexometric titration can be executed. Let us learn about different ways in which we can use EDTA titrations.</p>
+
+  <h3>Direct Titration:</h3>
+  <p>It is the simplest and the most convenient method in which the standard solution of EDTA is slowly added to the metal ion solution till the end point is achieved. It is similar to simple acid-base titrations. For this method to be useful the formation constant must be large and the indicator must provide a very distinct colour change as mentioned earlier. Further we need standardized solution of EDTA and sometimes auxiliary complexing agents may be required.</p>
+  <p>Some important elements which could be determined directly by the complexometric titration are Cu, Mn, Ca, Ba, Br, Zn, Cd, Hg, Al, Sn, Pb, Bi, Cr, Mo, Fe, Co, Ni, and Pd, etc. However, the presence of other ions may cause interference and need to be suitably handled.</p>
+
+  <h3>Back Titration:</h3>
+  <p>In this method, an excess of a standard solution of EDTA is added to the metal solution being determined so as to complex all the metal ions present in the solution. The excess of EDTA left after the complex formation with the metal is back titrated with a standard solution of a second metal ion.</p>
+  <p>This method becomes necessary if the analyte precipitates in the absence of EDTA or reacts too slowly with EDTA, or it blocks the indicator. For example, determination of Mn is done by this method because a direct titration is not possible due to precipitation of Mn(OH)<sub>2</sub>. The excess EDTA remaining after complexation, is back titrated with a standard Zn solution using Eriochrome black T as indicator. However, one has to ensure the standard metal ion should not displace the analyte ion from their EDTA complex.</p>
+
+  <h3>Replacement Titration:</h3>
+  <p>When direct or back titrations do not give sharp endpoints or when there is no suitable indicator for the analyte the metal may be determined by this method. The metal to be analyzed is added to a metal-EDTA complex. The analyte ion (with higher K<sub>f</sub>') displaces EDTA from the metal and the metal is subsequently titrated with standard EDTA.</p>
+  <p>For example, in the determination of Mn an excess of Mg EDTA chelate is added to Mn solution. The Mn ions quantitatively displace Mg from Mg-EDTA solution because Mn forms a more stable complex with EDTA. The freed Mg metal is then directly titrated with a standard solution of EDTA using Eriochrome black T indicator. Ca, Pb and Hg may also be determined by this method.</p>
+
+  <h3>Indirect Titration:</h3>
+  <p>Certain anions that form precipitate with metal cations and do not react with EDTA can be analyzed indirectly. The anion is first precipitated with a metal cation and the precipitate is washed and boiled with an excess of disodium EDTA solution to form the metal complex. The protons from disodium EDTA are displaced by a heavy metal and titrated with sodium alkali. Therefore, this method is also called alkalimetric titration. For example, barbiturates can be determined by this method.</p>
+
+  <h2>Redox titration:</h2>
+  <p>A reaction in which one or more electrons are lost is known as oxidation and a reaction in which one or more electrons are gained is known as reduction. Accordingly, a substance which can accept one or more electrons is known as oxidizing agent and a substance which can donate one or more electrons is called reducing agent. Titrations of this type are called redox titrations. Thus, redox titrations are those involving transfer of electrons from the reducing agent to the oxidizing agent.</p>
+  <p>Potassium permanganate, potassium dichromate, ceric sulphate, etc., are the common oxidizing agents used in redox titrations. Oxalic acid, Mohr's salt and arsenious oxide are reducing agents commonly used in redox titrations.</p>
+
+  <h3>Iodometry and Iodimetry:</h3>
+  <p>Iodine is a mild oxidizing agent. In the presence of a suitable reducing agent, it is reduced to iodine ion, I<sup>-</sup>. In addition to this, all oxidizing agents having electrode potential greater than 0.54 V can oxidize I<sup>-</sup> to I<sub>2</sub>.</p>
+  <p>When iodine solution is directly used for the estimation of reducing agents, the titration is called iodimetric titration (iodimetry). The titrations involving the iodine liberated in a chemical reaction are called iodometric titration (iodometry).</p>
+
