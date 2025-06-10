@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Under acidic condition, litmus paper turns to..............",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Blue to Colourless",
+        "b": "Blue to Red",
+        "c": "Red to colourless",
+        "d": "Red to Blue"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Litmus turns from blue to colorless in acidic conditions",
+        "b": "Correct: Litmus turns from blue to red in acidic conditions",
+        "c": "Litmus doesn't turn from red to colorless in acidic conditions",
+        "d": "Litmus doesn't turn from red to blue in acidic conditions"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In a titration experiment, 20mL of HCl was needed to completely neutralize 40mL of 0.10 mol/L NaOH. What was the concentration of the acid?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0.080 mol/L",
+        "b": "0.0080 mol/L",
+        "c": "0.02 mol/L",
+        "d": "0.2 mol/L"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This would require more acid than was actually used",
+        "b": "This concentration is too low for the given volumes",
+        "c": "This doesn't match the stoichiometry of the reaction",
+        "d": "Correct: Using the formula M1V1 = M2V2, the concentration is 0.2 mol/L"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The characteristic properties of an acid is due to the presence of ...............",
+      "answers": {
+        "a": "hydronium ions",
+        "b": "oxide ions",
+        "c": "hydroxide ions",
+        "d": "hydride ions"
+      },
+      "explanations": {
+        "a": "Correct: Acids produce hydronium ions (H3O+) in solution",
+        "b": "Oxide ions are characteristic of basic oxides, not acids",
+        "c": "Hydroxide ions are characteristic of bases, not acids",
+        "d": "Hydride ions are not responsible for acidic properties"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
