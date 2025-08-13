@@ -51,6 +51,57 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a weak base?",
+      "answers": {
+        "a": "NaOH",
+        "b": "KOH",
+        "c": "HF",
+        "d": "NH₄OH"
+      },
+      "explanations": {
+        "a": "NaOH is a strong base",
+        "b": "KOH is a strong base",
+        "c": "HF is actually a weak acid, not a base",
+        "d": "Correct: Ammonium hydroxide (NH₄OH) is a weak base"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The number of moles of solute dissolved per litre of solution is......",
+      "answers": {
+        "a": "Normality",
+        "b": "pH",
+        "c": "Molarity",
+        "d": "Molality"
+      },
+      "explanations": {
+        "a": "Normality considers equivalents, not just moles",
+        "b": "pH measures hydrogen ion concentration",
+        "c": "Correct: Molarity is defined as moles of solute per liter of solution",
+        "d": "Molality is moles per kilogram of solvent"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Methyl Orange produces ..........colour in acidic solution",
+      "answers": {
+        "a": "Green",
+        "b": "Yellow",
+        "c": "Colourless",
+        "d": "Red"
+      },
+      "explanations": {
+        "a": "Methyl orange doesn't produce green in any condition",
+        "b": "Yellow is the color in basic solution, not acidic",
+        "c": "Methyl orange doesn't become colorless",
+        "d": "Correct: Methyl orange turns red in acidic solutions"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }
