@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Under acidic condition, litmus paper turns to..............",
+      "answers": {
+        "a": "Blue to Colourless",
+        "b": "Blue to Red",
+        "c": "Red to colourless",
+        "d": "Red to Blue"
+      },
+      "explanations": {
+        "a": "Litmus turns from blue to colorless in acidic conditions",
+        "b": "Correct: Litmus turns from blue to red in acidic conditions",
+        "c": "Litmus doesn't turn from red to colorless in acidic conditions",
+        "d": "Litmus doesn't turn from red to blue in acidic conditions"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a titration experiment, 20mL of HCl was needed to completely neutralize 40mL of 0.10 mol/L NaOH. What was the concentration of the acid?",
+      "answers": {
+        "a": "0.080 mol/L",
+        "b": "0.0080 mol/L",
+        "c": "0.02 mol/L",
+        "d": "0.2 mol/L"
+      },
+      "explanations": {
+        "a": "This would require more acid than was actually used",
+        "b": "This concentration is too low for the given volumes",
+        "c": "This doesn't match the stoichiometry of the reaction",
+        "d": "Correct: Using the formula M1V1 = M2V2, the concentration is 0.2 mol/L"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The characteristic properties of an acid is due to the presence of ...............",
+      "answers": {
+        "a": "hydronium ions",
+        "b": "oxide ions",
+        "c": "hydroxide ions",
+        "d": "hydride ions"
+      },
+      "explanations": {
+        "a": "Correct: Acids produce hydronium ions (H3O+) in solution",
+        "b": "Oxide ions are characteristic of basic oxides, not acids",
+        "c": "Hydroxide ions are characteristic of bases, not acids",
+        "d": "Hydride ions are not responsible for acidic properties"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a weak base?",
+      "answers": {
+        "a": "NaOH",
+        "b": "KOH",
+        "c": "HF",
+        "d": "NH₄OH"
+      },
+      "explanations": {
+        "a": "NaOH is a strong base",
+        "b": "KOH is a strong base",
+        "c": "HF is actually a weak acid, not a base",
+        "d": "Correct: Ammonium hydroxide (NH₄OH) is a weak base"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The number of moles of solute dissolved per litre of solution is......",
+      "answers": {
+        "a": "Normality",
+        "b": "pH",
+        "c": "Molarity",
+        "d": "Molality"
+      },
+      "explanations": {
+        "a": "Normality considers equivalents, not just moles",
+        "b": "pH measures hydrogen ion concentration",
+        "c": "Correct: Molarity is defined as moles of solute per liter of solution",
+        "d": "Molality is moles per kilogram of solvent"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Methyl Orange produces ..........colour in acidic solution",
+      "answers": {
+        "a": "Green",
+        "b": "Yellow",
+        "c": "Colourless",
+        "d": "Red"
+      },
+      "explanations": {
+        "a": "Methyl orange doesn't produce green in any condition",
+        "b": "Yellow is the color in basic solution, not acidic",
+        "c": "Methyl orange doesn't become colorless",
+        "d": "Correct: Methyl orange turns red in acidic solutions"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
